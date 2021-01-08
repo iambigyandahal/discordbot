@@ -1,5 +1,5 @@
 # discordbot
-A simple discordjs bot!
+A simple discord bot!
 
 ## Installation
 - Clone the repository
